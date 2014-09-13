@@ -7,7 +7,7 @@ Cute Riceballs Emoticons set, created for PSI/PSI+ XMPP Instant Messenger.
 
 ## Install
 
-    $ cp psiceballs-1.0.jisp /usr/share/psi-plus/icons/emoticons/
+    $ cp psiceballs-1.0.jisp /usr/share/psi-plus/iconsets/emoticons/
 
 ## License
 
